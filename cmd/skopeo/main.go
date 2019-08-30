@@ -95,6 +95,7 @@ func createApp() (*cli.App, *globalOptions) {
 	app.Commands = []cli.Command{
 		copyCmd(&opts),
 		inspectCmd(&opts),
+		specCmd(&opts),
 		layersCmd(&opts),
 		deleteCmd(&opts),
 		manifestDigestCmd(),

@@ -1,0 +1,9 @@
+Kind: diamanti.com/image-lookup
+ApiVersion: v1Beta1
+Policy:
+  Enforcing: true
+  Tag: diamanti-kubernetes-1.15.3
+Images:
+  - docker://docker.io/library/ubuntu
+  - docker://docker.io/library/fedora
+  - docker://docker.io/library/alpine
