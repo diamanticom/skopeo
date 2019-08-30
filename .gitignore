@@ -1,3 +1,5 @@
+.idea
+.vscode
 *.1
 /layers-*
 /skopeo
