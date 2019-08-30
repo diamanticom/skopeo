@@ -14,7 +14,7 @@ require (
 	github.com/docker/go-connections v0.0.0-20180212134524-7beb39f0b969 // indirect
 	github.com/docker/libtrust v0.0.0-20160708172513-aabc10ec26b7 // indirect
 	github.com/etcd-io/bbolt v1.3.2 // indirect
-	github.com/ghodss/yaml v0.0.0-20150909031657-73d445a93680 // indirect
+	github.com/ghodss/yaml v0.0.0-20150909031657-73d445a93680
 	github.com/go-check/check v0.0.0-20180628173108-788fd7840127
 	github.com/gogo/protobuf v0.0.0-20170815085658-fcdc5011193f // indirect
 	github.com/gorilla/context v0.0.0-20140604161150-14f550f51af5 // indirect
